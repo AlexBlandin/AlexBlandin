@@ -1,4 +1,4 @@
-### Greetings! 🍵 📚
+### Greetings! 🍵 📚 💻
 
 I research AI & ML, but I also like to make more "traditional" tools, which you'll see a sample of pinned below. There's also my code for [Advent of Code](https://github.com/AlexBlandin/advent-of-code) and [Google Hash Code](https://github.com/AlexBlandin/Google-Hash).
 
