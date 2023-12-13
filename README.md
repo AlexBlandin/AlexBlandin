@@ -1,6 +1,6 @@
 ### Greetings! 🍵 📚 💻
 
-I'm an ML researcher, but I also like to make more "traditional" tools, which you'll see a sample of pinned below. There's also my entries for [Advent of Code](https://github.com/AlexBlandin/Advent-of-Code) and [Google Hash Code](https://github.com/AlexBlandin/Google-Hash).
+I'm an ML researcher, but I also like to make more "traditional" tools, which you'll see a sample of pinned below. There's also my repos for [Advent of Code](https://github.com/AlexBlandin/Advent-of-Code) and [Google Hash Code](https://github.com/AlexBlandin/Google-Hash).
 
 <!--
 **AlexBlandin/AlexBlandin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
